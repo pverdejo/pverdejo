@@ -1,5 +1,5 @@
 <h1> Hello, I'm Pablo Verdejo Cortez 👋 </h1>
-I've a Licentiate in Physics / emphasis in Astronomy 
+I've a Licentiate in Physics / emphasis in Astronomy 🔭 🌠
 
 Graduated from Pontificia Universidad Católica de Valparaiso. <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWh3ZWtldjZldWJ6YzZpbWZ2b21sNjNuc3phZHhocDl1dGpxYjJlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9ryEJov6lxv6LzECWF/giphy.gif" width="50px">
 
@@ -8,7 +8,7 @@ From very early on in my life, I developed a deep passion for science—especial
 
 ## What I know :computer:
 - **Competitive Programming**
-	- Python ❤️
+	- Python 
 	- SQL Server Managment Studio
 	- R
 
@@ -17,20 +17,23 @@ From very early on in my life, I developed a deep passion for science—especial
 - At least delve into AI and ML.
 
 ## Reach me 
-[![Github](https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social)](https://github.com/Sarthakbh321)
-[![Instagram](https://img.shields.io/badge/-@sarthak_bharadwaj-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sarthak_bharadwaj_/)](https://www.instagram.com/sarthak_bharadwaj_/)
-[![Linkedin](https://img.shields.io/badge/-Sarthak%20Bharadwaj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)
-[![Mail](https://img.shields.io/badge/-sarthakbh321@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:sarthakbh321@gmail.com)
+[![Github](https://img.shields.io/github/followers/pverdejo?label=Follow&style=social)](https://github.com/pverdejo)
+[![Instagram](https://img.shields.io/badge/-@_alguien_despreocupado.jpg-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_alguien_despreocupado.jpg/?hl=es-la)](https://www.instagram.com/_alguien_despreocupado.jpg/?hl=es-la)
+[![Linkedin](https://img.shields.io/badge/-Pablo%20Verdejo-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pablo-verdejo-cortez/)](www.linkedin.com/in/pablo-verdejo-cortez)
+[![Mail](https://img.shields.io/badge/-pverdejo2017@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/pablo-verdejo-cortez)](mailto:pverdejo2017@gmail.com)
 
-
-### Interesting stats
-
-![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=sarthakbh321&show_icons=true)
 
 Thanks for stopping by! 😁
+<!--
+### Interesting stats
+
+ ![pverdejo's stats](https://github-readme-stats.vercel.app/api?username=pverdejo&show_icons=true) 
+
+
 
 
 ⭐️ From [Sarthakbh321](https://github.com/Sarthakbh321)
+-->
 
 <!--
 **pverdejo/pverdejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
