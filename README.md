@@ -1,28 +1,20 @@
 <h1> Hello, I'm Pablo Verdejo Cortez 👋 </h1>
 I've a Licentiate in Physics / emphasis in Astronomy 
-<!-- <div align="center">
-	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
-</div>
--->
+
+Graduated from Pontificia Universidad Católica de Valparaiso. <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWh3ZWtldjZldWJ6YzZpbWZ2b21sNjNuc3phZHhocDl1dGpxYjJlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9ryEJov6lxv6LzECWF/giphy.gif" width="50px">
 
 ## About me :mortar_board:
-I am a student, currently studying in Vellore Institute of Technology. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+From very early on in my life, I developed a deep passion for science—especially physics and technology. This curiosity has shaped the way I think, fostering a strong logical mindset and a constant desire to explore and understand more. I firmly believe that learning is a lifelong journey, and that no amount of knowledge is ever truly enough.
 
 ## What I know :computer:
 - **Competitive Programming**
 	- Python ❤️
-	- C++
-	- Some Java
-- **Frontend Development**
-	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
-	- React with Redux :electron:
-	- React Native
+	- SQL Server Managment Studio
+	- R
 
 ## What I want to do next :thinking:
-- Backend Development (to become a Full-Stack developer)
+- Frontend Development
 - At least delve into AI and ML.
-- Unlock the secret to the universe :rofl:
 
 ## Reach me 
 [![Github](https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social)](https://github.com/Sarthakbh321)
